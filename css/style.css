@@ -61,6 +61,7 @@ body {
 .header .container .search input {
     width: 344px;
     height: 23px;
+    margin-left: 10px;
 }
 .header .container .logo span {
     color: #0076CE;
